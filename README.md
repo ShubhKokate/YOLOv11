@@ -40,7 +40,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/real-time-traffic-detection.git
+git clone https:/[/github.com/yourusername/real-time-traffic-detection.](https://github.com/ShubhKokate/YOLOv11)git
 cd real-time-traffic-detection
 Install Dependencies
 
